@@ -12,7 +12,7 @@ import numpy as np
 
 st.set_page_config(layout="wide")
 
-url_immagine = 'https://github.com/MarcelloGalimberti/Sentiment/blob/main/Ducati_red_logo.png?raw=true'
+url_immagine = 'https://github.com/MarcelloGalimberti/AM/blob/main/Ducati_red_logo-2.png?raw=true'
 
 col_1, col_2 = st.columns([1, 6])
 
